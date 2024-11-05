@@ -31,6 +31,11 @@ Standardisierte Massen-E-Mails werden oft ignoriert. Persönliche Nachrichten, d
 5. **Recherche durchführen:**
    - ChatGPT generiert spezifische Suchanfragen, um mehr über die Positionen der Abgeordneten zu erfahren.
    - Führen Sie diese Suchanfragen durch und kopieren Sie die relevanten Links (z. B. zu offiziellen Webseiten, Interviews oder Statements der Abgeordneten).
+**⚠️ Manchmal gibt ChatGPT nicht die Google-Anfragen aus.**
+Um sicher zu sein, dass ChatGPT dann auch die Politiker richtig anschrteibt, machst Du folgendes.
+Sucht bitte noch einmal Manuell (genau diese Schreibweise, nur den Namen des Politikers mit dem jeweiligen ausstauschen) in Google.
+"Politiker Name" AfD-Verbot
+Wikipedia-Eintrag "Christoph Ploß"
 
 6. **Personalisierte E-Mails erhalten:**
    - Geben Sie die gefundenen Links an ChatGPT zurück.
