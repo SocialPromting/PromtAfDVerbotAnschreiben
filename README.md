@@ -3,7 +3,7 @@
 Dieses GitHub-Projekt stellt einen speziellen ChatGPT-Prompt zur Verfügung, der es Ihnen erleichtert, individuelle und wirkungsvolle E-Mails an Ihre Bundestagsabgeordneten zu verfassen. Ziel ist es, die Abgeordneten dazu zu bewegen, ein Verbotsverfahren gegen die AfD zu unterstützen.
 
 ## ⚠️ Für nicht Programmierer:
-Gehe oben in der Liste auf "**AfDVerbotspromt**__" klicke oben rechts auf die Schaltfläche kopieren oder markiere den Text mit der Maus und kopiere diesen.
+Gehe oben in der Liste auf "__**AfDVerbotspromt**__" klicke oben rechts auf die Schaltfläche kopieren oder markiere den Text mit der Maus und kopiere diesen.
 Dann füge den Text in **ChatGPT** ein, drücke enter und folge dann den Anweisungen der KI.
 **Anthropic** und andere künstliche Intelligenzen mit einem größeren Kontextfenster sollte auch funktionieren.
 Habe ich aber noch nicht getestet. Freiwillige die das testen wollen sind willkommen.
