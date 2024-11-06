@@ -18,7 +18,7 @@ Standardisierte Massen-E-Mails werden oft ignoriert. Persönliche Nachrichten, d
    - Laden Sie den bereitgestellten ChatGPT-Prompt von dieser GitHub-Seite herunter.
 
 2. **Interview durchführen:**
-   - Öffnen Sie ChatGPT oder eine kompatible KI-Plattform.
+   - Öffne [ChatGPT](https://chatgpt.com/) oder eine kompatible KI-Plattform. 
    - Fügen Sie den Prompt in das Eingabefeld ein.
    - Beantworten Sie die Fragen zu Ihren persönlichen Erfahrungen und Ansichten. Dies dauert etwa 5 Minuten.
 
@@ -33,10 +33,12 @@ Standardisierte Massen-E-Mails werden oft ignoriert. Persönliche Nachrichten, d
    - Führen Sie diese Suchanfragen durch und kopieren Sie die relevanten Links (z. B. zu offiziellen Webseiten, Interviews oder Statements der Abgeordneten).
 
 **⚠️ Manchmal gibt ChatGPT nicht die Google-Anfragen aus.**
+Das scheint davon abhängig zu sein, wie sehr ChatGPT gerade ausgelastet ist.
+
 Um sicher zu sein, dass ChatGPT dann auch die Politiker richtig anschrteibt, machst Du folgendes.
 Sucht bitte noch einmal Manuell (genau diese Schreibweise, nur den Namen des Politikers mit dem jeweiligen ausstauschen) in Google.
 "Politiker Name" AfD-Verbot
-Wikipedia-Eintrag "Christoph Ploß"
+Wikipedia-Eintrag "Politiker Name"
 
 6. **Personalisierte E-Mails erhalten:**
    - Geben Sie die gefundenen Links an ChatGPT zurück.
